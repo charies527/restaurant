@@ -1,0 +1,9 @@
+e:\음식점 통함 서비스\RestaurantSystem\bin\Debug\RestaurantSystem.exe.config
+e:\음식점 통함 서비스\RestaurantSystem\bin\Debug\RestaurantSystem.exe
+e:\음식점 통함 서비스\RestaurantSystem\bin\Debug\RestaurantSystem.pdb
+e:\음식점 통함 서비스\RestaurantSystem\obj\Debug\RestaurantSystem.exe
+e:\음식점 통함 서비스\RestaurantSystem\obj\Debug\RestaurantSystem.pdb
+E:\음식점 통함 서비스\RestaurantSystem\bin\Debug\Oracle.DataAccess.dll
+E:\음식점 통함 서비스\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.AssemblyReference.cache
+E:\음식점 통함 서비스\RestaurantSystem\obj\Debug\RestaurantSystem.csproj.CoreCompileInputs.cache
+E:\음식점 통함 서비스\RestaurantSystem\obj\Debug\Restaura.9178D4A2.Up2Date
