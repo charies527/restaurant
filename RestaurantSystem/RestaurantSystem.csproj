@@ -58,6 +58,7 @@
     <Compile Include="MenuEditForm.Designer.cs">
       <DependentUpon>MenuEditForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="MenuIngredientItem.cs" />
     <Compile Include="OrderHistoryForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +71,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="MenuEditForm.resx">
+      <DependentUpon>MenuEditForm.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

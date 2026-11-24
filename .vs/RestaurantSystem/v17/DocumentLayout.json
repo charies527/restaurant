@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "E:\\hong\\restaurant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|e:\\hong\\restaurant\\restaurantsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|e:\\hong\\restaurant\\restaurantsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|E:\\hong\\restaurant\\restaurantsystem\\menueditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|e:\\hong\\restaurant\\restaurantsystem\\menueditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\menueditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|E:\\hong\\restaurant\\restaurantsystem\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\orderhistoryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|E:\\hong\\restaurant\\restaurantsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|E:\\hong\\restaurant\\restaurantsystem\\menueditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\menueditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|E:\\hong\\restaurant\\restaurantsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8F3A1C2-4D5E-6789-ABCD-0123456789AB}|RestaurantSystem\\RestaurantSystem.csproj|solutionrelative:restaurantsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 214,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,20 +38,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "MenuEditForm.cs",
+              "DocumentMoniker": "E:\\hong\\restaurant\\RestaurantSystem\\MenuEditForm.cs",
+              "RelativeDocumentMoniker": "RestaurantSystem\\MenuEditForm.cs",
+              "ToolTip": "E:\\hong\\restaurant\\RestaurantSystem\\MenuEditForm.cs",
+              "RelativeToolTip": "RestaurantSystem\\MenuEditForm.cs",
+              "ViewState": "AgIAAGQAAACAAAAAAAAgwHgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T09:18:21.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MainForm.cs",
               "DocumentMoniker": "E:\\hong\\restaurant\\RestaurantSystem\\MainForm.cs",
               "RelativeDocumentMoniker": "RestaurantSystem\\MainForm.cs",
               "ToolTip": "E:\\hong\\restaurant\\RestaurantSystem\\MainForm.cs",
               "RelativeToolTip": "RestaurantSystem\\MainForm.cs",
-              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACABAAAAAAAAAAAmwCEBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-18T12:32:19.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MenuEditForm.cs [\uB514\uC790\uC778]",
               "DocumentMoniker": "E:\\hong\\restaurant\\RestaurantSystem\\MenuEditForm.cs",
               "RelativeDocumentMoniker": "RestaurantSystem\\MenuEditForm.cs",
@@ -59,18 +72,6 @@
               "RelativeToolTip": "RestaurantSystem\\MenuEditForm.cs [\uB514\uC790\uC778]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-18T12:15:17.829Z",
-              "EditorCaption": " [\uB514\uC790\uC778]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "OrderHistoryForm.cs [\uB514\uC790\uC778]",
-              "DocumentMoniker": "E:\\hong\\restaurant\\RestaurantSystem\\OrderHistoryForm.cs",
-              "RelativeDocumentMoniker": "RestaurantSystem\\OrderHistoryForm.cs",
-              "ToolTip": "E:\\hong\\restaurant\\RestaurantSystem\\OrderHistoryForm.cs [\uB514\uC790\uC778]",
-              "RelativeToolTip": "RestaurantSystem\\OrderHistoryForm.cs [\uB514\uC790\uC778]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-18T12:15:12.942Z",
               "EditorCaption": " [\uB514\uC790\uC778]"
             },
             {

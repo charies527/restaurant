@@ -353,7 +353,7 @@ namespace RestaurantSystem
 
         private void btnMenuAdd_Click(object sender, EventArgs e)
         {
-            MenuEditForm dlg = new MenuEditForm(db.NextMenuId(), "", 0, "판매중");
+            MenuEditForm dlg = new MenuEditForm(db ,db.NextMenuId(), "", 0, "판매중");
             if (dlg.ShowDialog() != DialogResult.OK) return;
             try
             {
@@ -381,6 +381,7 @@ namespace RestaurantSystem
                 return;
             }
             MenuEditForm dlg = new MenuEditForm(
+                db,
                 Convert.ToString(row["MENU_ID"]),
                 Convert.ToString(row["MENU_NAME"]),
                 Convert.ToDecimal(row["PRICE"]),
